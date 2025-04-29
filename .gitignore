@@ -1,0 +1,2 @@
+*.vcd
+sim/spi_slave_tb
